@@ -9,7 +9,7 @@
 | S.No | Name | Enrollment Number |
 |------|------|-------------------|
 | 1    | Krishna | 2401010237 |
-| 2    | [Member Name 2] | [Enrollment No. 2] |
+| 2    | Rudraksh Rathod | 2401010396|
 | 3    | Satyam Singh | 2401010430 |
 | 4    | [Member Name 4] | [Enrollment No. 4] |
 | 5    | Antik Mondal| 2401010084 |
