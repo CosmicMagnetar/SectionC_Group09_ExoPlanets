@@ -11,7 +11,7 @@
 | 1    | Krishna | 2401010237 |
 | 2    | Neeraj Singh | 2401010297 |
 | 3    | Satyam Singh | 2401010430 |
-| 4    | [Member Name 4] | [Enrollment No. 4] |
+| 4    | Rudraksh Rathod | 2401010396 |
 | 5    | Antik Mondal    | 2401010084 |
 | 6    | Bineet Keshari  | 2401010130 |
 
