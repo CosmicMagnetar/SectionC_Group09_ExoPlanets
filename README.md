@@ -52,7 +52,7 @@ The project follows an **industry-style analytics workflow**, transforming raw s
 ---
 
 ## 📂 Project Structure
-
+```
 ├── Raw Dataset/
 │ └── exoplanets_raw.csv
 │
@@ -75,7 +75,7 @@ The project follows an **industry-style analytics workflow**, transforming raw s
 │ └── Final_Presentation.pptx
 │
 └── README.md
-
+```
 ---
 
 ## 🧹 Data Cleaning & Preparation
