@@ -1,4 +1,4 @@
-# 🌌 Exoplanet Discovery Analytics  
+# Exoplanet Discovery Analytics  
 ### Data Visualization & Analytics (DVA) Capstone Project
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 | S.No | Name             | Enrollment Number |
 |-----:|------------------|-------------------|
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The discovery of exoplanets (planets outside our solar system) has accelerated due to advances in detection technologies. However, historical exoplanet datasets are strongly influenced by **observational bias, detection feasibility, and technological limitations**.
 
@@ -37,7 +37,7 @@ This project analyzes historical exoplanet data to:
 
 ---
 
-## 📂 Repository Structure (Mandatory)
+## Repository Structure (Mandatory)
 
 ```
 ├── RawDataset/
@@ -65,7 +65,7 @@ This project analyzes historical exoplanet data to:
 
 ---
 
-## 📘 Data Dictionary (Key Columns)
+## Data Dictionary (Key Columns)
 
 | Column Name | Description |
 |------------|-------------|
@@ -87,7 +87,7 @@ Derived analytical columns:
 
 ---
 
-## 🧹 Data Cleaning Notes
+## Data Cleaning Notes
 
 The raw dataset contained:
 - Scientific uncertainty values (±, ranges, citations)
@@ -106,7 +106,7 @@ All cleaning steps were documented in `Cleaning_Log.md`.
 
 ---
 
-## 📊 Key Insights & Statistics
+## Key Insights & Statistics
 
 - **Transit method** accounts for the majority of exoplanet discoveries
 - Discovery volume increased sharply after **2005**, driven by technology
@@ -116,7 +116,7 @@ All cleaning steps were documented in `Cleaning_Log.md`.
 
 ---
 
-## 📈 Dashboard Summary
+## Dashboard Summary
 
 The dashboard provides:
 
@@ -133,7 +133,7 @@ The dashboard provides:
 
 ---
 
-## 🖼️ Dataset Analysis Screenshots
+## Dataset Analysis Screenshots
 
 Screenshots included in the `Dashboard/` folder:
 - Discovery Method Dominance
@@ -145,7 +145,7 @@ These visuals support all insights discussed in the project.
 
 ---
 
-## 🧭 Recommendations
+## Recommendations
 
 - Prioritize scalable transit survey missions
 - Use radial velocity for confirmation
@@ -155,7 +155,7 @@ These visuals support all insights discussed in the project.
 
 ---
 
-## ⚠️ Limitations & Future Scope
+## Limitations & Future Scope
 
 ### Limitations
 - Observational and technological bias
@@ -170,7 +170,7 @@ These visuals support all insights discussed in the project.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Google Sheets (Cleaning, Pivots, Dashboard)
 - Spreadsheet Functions & Pivot Tables
@@ -180,7 +180,7 @@ These visuals support all insights discussed in the project.
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates that exoplanet discovery patterns are shaped more by **technology and feasibility** than by true planetary abundance. By acknowledging bias and constraints, the analysis provides realistic and decision-oriented insights for future space exploration strategies.
 
